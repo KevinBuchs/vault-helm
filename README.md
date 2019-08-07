@@ -11,7 +11,7 @@ use Vault with Kubernetes, please see the
 ## Prerequisites
 
 To use the charts here, [Helm](https://helm.sh/) must be installed in your
-Kubernetes cluster. Setting up Kubernetes and Helm and is outside the scope
+Kubernetes cluster. Setting up Kubernetes and Helm is outside the scope
 of this README. Please refer to the Kubernetes and Helm documentation.
 
 The versions required are:
